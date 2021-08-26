@@ -1,0 +1,1 @@
+Scripts utilizados para manipulação de dados em Banco de Dados Oracle para diversos fins

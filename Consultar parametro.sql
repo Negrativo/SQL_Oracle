@@ -1,0 +1,11 @@
+---paramentros
+SELECT *
+  FROM HSSPARAM
+ WHERE cdescparam like '%ao baixar primeira%'
+ ORDER BY CGRUPPARAM, CSESSPARAM, CDESCPARAM
+ 
+--valores paramentros
+SELECT *
+  FROM HSSPARAV
+ WHERE CNOMEPARAM = 'CATTITU_COM'
+ ORDER BY NORDEPARAV
